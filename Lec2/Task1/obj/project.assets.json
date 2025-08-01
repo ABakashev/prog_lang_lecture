@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/adam/Desktop/QA studying/Lecture/Lec2/Lec2.csproj",
-      "projectName": "Lec2",
-      "projectPath": "/home/adam/Desktop/QA studying/Lecture/Lec2/Lec2.csproj",
+      "projectUniqueName": "/home/adam/Desktop/QA studying/Lecture/Lec2/Task1/Task1.csproj",
+      "projectName": "Task1",
+      "projectPath": "/home/adam/Desktop/QA studying/Lecture/Lec2/Task1/Task1.csproj",
       "packagesPath": "/home/adam/.nuget/packages/",
-      "outputPath": "/home/adam/Desktop/QA studying/Lecture/Lec2/obj/",
+      "outputPath": "/home/adam/Desktop/QA studying/Lecture/Lec2/Task1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/adam/.nuget/NuGet/NuGet.Config"
